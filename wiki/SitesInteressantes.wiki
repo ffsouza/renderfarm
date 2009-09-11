@@ -1,0 +1,8 @@
+#labels Featured,Phase-Implementation
+Local Area Multicomputer: http://www.lam-mpi.org/
+
+PelicanHPC: http://pareto.uab.es/mcreel/ParallelKnoppix/
+
+http://lcic.org/distros.html
+
+http://pareto.uab.es/mcreel/PelicanHPC/Tutorial/PelicanTutorial.html

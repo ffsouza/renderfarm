@@ -1,4 +1,4 @@
-#labels Phase-Design
+#labels Phase-Requirements
 = Inicio dos Trabalhos - 14/09/09 = 
 == Levantamento das configurações do MASTER ==
 || Processador:|| 2 x Pentium III - 1266 MHz||
@@ -6,5 +6,14 @@
 || HD:|| 4 x 34 GB||
 || DVD/RW || ---||
 
-== Sistema Operacional ==
+== Sistema Operacional MASTER ==
 * Debian 4.05
+||Hostname:||matrix||
+||super user:||root||
+||user:||agente||
+
+== Sistema Operacional SLAVES ==
+* Debian 4.05
+||Hostname:||agenteX||
+||super user:||root||
+||user:||agente||

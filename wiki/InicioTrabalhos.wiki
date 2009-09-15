@@ -1,0 +1,8 @@
+#labels Phase-Design
+= Inicio dos Trabalhos - 14/09/09 = 
+== Levantamento das configurações do MASTER ==
+|| Processador:|| 2 x Pentium III - 1266 MHz||
+|| Memória:|| 2304 MB||
+|| HD:|| 4 x 34 GB||
+|| DVD/RW || ---||
+

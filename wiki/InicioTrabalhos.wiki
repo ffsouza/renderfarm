@@ -6,3 +6,5 @@
 || HD:|| 4 x 34 GB||
 || DVD/RW || ---||
 
+== Sistema Operacional ==
+* Debian 4.05

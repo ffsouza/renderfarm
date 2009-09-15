@@ -6,13 +6,13 @@
 || HD:|| 4 x 34 GB||
 || DVD/RW || ---||
 
-== Sistema Operacional MASTER ==
+== Sistema Operacional - MASTER ==
 * Debian 4.05
 ||Hostname:||matrix||
 ||super user:||root||
 ||user:||agente||
 
-== Sistema Operacional SLAVES ==
+== Sistema Operacional - SLAVES ==
 * Debian 4.05
 ||Hostname:||agenteX||
 ||super user:||root||

@@ -7,7 +7,7 @@
 || DVD/RW || Sim||
 
 == Sistema Operacional - MASTER ==
-* Debian 4.0 r5 etch [20081023-23:00]
+* Debian 4.0 r5 etch (20081023-23:00)
 * KERNEL 2.6.18-6-686
 * GNOME 2.14.3
 ||Hostname:||matrix||
@@ -21,7 +21,7 @@
 ||user:||agente||
 
 == Sistema Operacional - SLAVES ==
-* Debian 4.0 r5 etch [20081023-23:00]
+* Debian 4.0 r5 etch (20081023-23:00)
 ||Hostname:||agenteX||
 ||super user:||root||
 ||user:||agente||

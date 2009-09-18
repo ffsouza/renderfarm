@@ -4,5 +4,6 @@
 ||Filtro de Linha||
 ||Estabilizadores||
 
-== Desejável ==
+= Desejável =
+
 ||No-Break 1000||

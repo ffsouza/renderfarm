@@ -2,5 +2,5 @@
 ||Switch 8 portas||
 ||Filtro de Linha||
 ||Estabilizadores||
-= Desejável =
+== Desejável ==
 ||No-Break 1000||

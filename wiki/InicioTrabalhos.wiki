@@ -5,11 +5,26 @@
 || Memória:|| 2304 MB||
 || HD:|| 4 x 34 GB||
 || DVD/RW || Sim||
+|| "Série" || xSeries 232 ||
+|| Rede ||3 Interfaces de rede ||
+
+
 
 == Sistema Operacional - MASTER ==
 === Debian 4.0 r5 etch (20081023-23:00) ===
 === KERNEL 2.6.18-6-686 ===
 === GNOME 2.14.3 ===
+==Instalações do Debian==
+Desktop
+Server Web
+Servidor de arquivos
+Sistema básico
+
+|| eth0 || 192.168.3.1 ||
+|| Gateway || 192.168.1 ||
+|| Servidor de nomes || 192.168.0.2 ||
+|| Domínio || fatecpg.com.br - até então ||
+|| Grupo de domínio || labpgcp ||
 ||Hostname:||matrix||
 ||super user:||root||
 || membros:||douglas||

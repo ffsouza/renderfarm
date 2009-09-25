@@ -1,4 +1,7 @@
 = Packages =
+
+Instalação dos pacotes (programas) necessários.
+
 * apt-get install nfs-kernel-server
 
 * apt-get install patch 

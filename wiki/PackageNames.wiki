@@ -7,3 +7,6 @@
 === apt-get install gcc ===
 === apt-get install g++ ===
 === apt-get install libstdc++2.10-dev ===
+=== apt-get install ssh ===
+=== apt-get install mpich ===
+=== apt-get install blender ===

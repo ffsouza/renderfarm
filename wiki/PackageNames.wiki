@@ -8,7 +8,7 @@
 * apt-get install xlibs-dev 
 
 * apt-get install libpng-dev
- 
+
 * apt-get install gcc 
 
 * apt-get install g++ 

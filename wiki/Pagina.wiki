@@ -1,0 +1,60 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+O que falta fazer
+
+- Layout;
+- Frame contendo a lista dos arquivos que estão no servidor para serem baixados pelos usuários que fizerem upload dos seus .blend;
+- Verificação do que está sendo feito upload;
+- e outras coisas não previstas...
+
+
+*bold*Código para a parte HTML da página*bold*
+
+Um código simples, e sem verificação html que pode ser realizada
+
+É necessária a linha enctype="multipart/form-data" na tag form
+
+_italic_
+<html>
+<body>
+<form enctype="multipart/form-data" action="upload.php" method="POST">
+<input type="hidden" name="uploader">
+Arquivo: <input name="userfile" type="file">
+<input type="submit" value="Enviar Arquivo">
+</form>
+</body>
+</html>
+_italic_
+
+Agora, a parte php:
+
+_italic_
+<?php
+
+$uploaddir = '/var/www/';
+$uploadfile = $uploaddir. $_FILES['userfile']['name'];
+print "<pre>";
+if (move_uploaded_file($_FILES['userfile']['tmp_name'], $uploaddir . $_FILES['userfile']['name'])) {
+    print "O arquivo é valido e foi carregado com sucesso."
+
+system('blender -b /var/www/'.$_FILES['userfile']['name'].' -a -o //output -x 1 -F AVIRAW', $retval);
+
+
+} else {
+    print "Possivel ataque de upload! Aqui esta alguma informaÃ§Ã£o:\n";
+    print_r($_FILES);
+}
+print "</pre>";
+?>
+
+_italic_
+
+
+Para fazer o download direto após o término do processo, no php deveria ser adicionada a linha - echo "<download src=".$_FILES['userfile']['name'].">" - se não me engano.

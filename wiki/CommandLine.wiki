@@ -1,13 +1,13 @@
 = Linha de comando blender =
 
-Gerar Videos: AVIJPEG (o tamanho do arquivo fica menor), MOVIE (mais demorado)
+==Gerar Videos: AVIJPEG (o tamanho do arquivo fica menor), MOVIE (mais demorado)==
 
 *blender -b arquivo.blend -x 1 -o //file -F AVIJPEG -a*
 
 *blender -b arquivo.blend -x 1 -o //file -F MOVIE -a*
 
 
-Gerar Imagens: JPEG e PNG
+==Gerar Imagens: JPEG e PNG==
 
 *blender -b arquivo.blend -x 1 -o //file -F JPEG -a*
 

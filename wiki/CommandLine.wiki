@@ -1,3 +1,5 @@
 = Linha de comando blender =
 
-blender -b arquivo.blend -x 1 -o //file -F MOVIE -a
+blender -b arquivo.blend -x 1 -o //file -F AVIJPEG -a
+
+blender -b arquivo.blend -x 1 -o //file -F MOVIE -a 

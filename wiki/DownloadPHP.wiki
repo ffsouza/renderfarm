@@ -1,0 +1,37 @@
+<?php
+
+$dir = ".";
+
+$dh  = opendir($dir);
+
+while (false !== ($filename = readdir($dh))) {
+
+    $files[] = $filename;
+
+}
+
+$ind='index.php';
+$dl='download.php';
+
+$v='.';
+
+$vv='..';
+
+sort($files);
+
+foreach ($files as $links) {
+
+ if($files==$ind||$links==$ind||$links==$dl||$links==$v||$links==$vv){
+
+   echo "";
+
+ }else{
+   $linkss=ereg_replace("_"," ",$links);
+
+   echo "<a href='$dir/$links'><li>".strtoupper(strtok($linkss,"."))."</a>";
+
+ }
+
+}
+
+?>

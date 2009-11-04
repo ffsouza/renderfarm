@@ -1,3 +1,4 @@
+{{{
 <?php
 
 $dir = ".";
@@ -35,3 +36,4 @@ foreach ($files as $links) {
 }
 
 ?>
+}}}

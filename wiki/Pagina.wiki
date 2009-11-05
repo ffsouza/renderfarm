@@ -19,6 +19,11 @@ _italic_
 <form enctype="multipart/form-data" action="upload.php" method="POST">
 <input type="hidden" name="uploader">
 Arquivo: <input name="userfile" type="file">
+Tipo de Renderização: 
+<select name="tipo">
+<option value="PNG">Imagem</option>
+<option value="AVIJPEG">Video</option>
+</select>
 <input type="submit" value="Enviar Arquivo">
 </form>
 </body>

@@ -1,12 +1,3 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
 O que falta fazer
 
 - Layout;
@@ -22,6 +13,7 @@ Um código simples, e sem verificação html que pode ser realizada
 É necessária a linha enctype="multipart/form-data" na tag form
 
 _italic_
+{{{
 <html>
 <body>
 <form enctype="multipart/form-data" action="upload.php" method="POST">
@@ -31,11 +23,13 @@ Arquivo: <input name="userfile" type="file">
 </form>
 </body>
 </html>
+}}}
 _italic_
 
 Agora, a parte php:
 
 _italic_
+{{{
 <?php
 
 $uploaddir = '/var/www/';
@@ -53,7 +47,7 @@ system('blender -b /var/www/'.$_FILES['userfile']['name'].' -a -o //output -x 1 
 }
 print "</pre>";
 ?>
-
+}}}
 _italic_
 
 

@@ -1,5 +1,6 @@
 {{{
 20:33:27
+
 guessing 'blender-bin' == '/usr/bin/blender-bin'
 Compiled with Python version 2.5.2.
 Checking for installed Python... got it!
@@ -22,7 +23,6 @@ Fra:1 Mem:31.19M | Part 15-16
 Fra:1 Mem:31.19M | Part 13-16
 Fra:1 Mem:29.68M | Part 16-16
 Saved: render0001.png Time: 12:12.76
-
 
 20:45:41
 }}}

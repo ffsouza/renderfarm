@@ -1,0 +1,28 @@
+{{{
+20:33:27
+guessing 'blender-bin' == '/usr/bin/blender-bin'
+Compiled with Python version 2.5.2.
+Checking for installed Python... got it!
+File written by newer Blender binary: 245.15 , expect loss of data!
+Fra:1 Mem:17.50M Sce: Scene Ve:55142 Fa:55021 La:2
+Fra:1 Mem:31.38M | Part 2-16
+Fra:1 Mem:31.25M | Part 1-16
+Fra:1 Mem:31.38M | Part 3-16
+Fra:1 Mem:31.19M | Part 4-16
+Fra:1 Mem:31.25M | Part 5-16
+Fra:1 Mem:31.19M | Part 6-16
+Fra:1 Mem:31.38M | Part 7-16
+Fra:1 Mem:31.38M | Part 9-16
+Fra:1 Mem:31.19M | Part 8-16
+Fra:1 Mem:31.25M | Part 10-16
+Fra:1 Mem:31.25M | Part 12-16
+Fra:1 Mem:31.19M | Part 11-16
+Fra:1 Mem:31.19M | Part 14-16
+Fra:1 Mem:31.19M | Part 15-16
+Fra:1 Mem:31.19M | Part 13-16
+Fra:1 Mem:29.68M | Part 16-16
+Saved: render0001.png Time: 12:12.76
+
+Blender quit
+20:45:41
+}}}

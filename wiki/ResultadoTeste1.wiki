@@ -3,7 +3,7 @@
 guessing 'blender-bin' == '/usr/bin/blender-bin'
 Compiled with Python version 2.5.2.
 Checking for installed Python... got it!
-File written by newer Blender binary: 245.15 , expect loss of data!
+File written by newer Blender binary: 245.15 
 Fra:1 Mem:17.50M Sce: Scene Ve:55142 Fa:55021 La:2
 Fra:1 Mem:31.38M | Part 2-16
 Fra:1 Mem:31.25M | Part 1-16
@@ -23,6 +23,6 @@ Fra:1 Mem:31.19M | Part 13-16
 Fra:1 Mem:29.68M | Part 16-16
 Saved: render0001.png Time: 12:12.76
 
-Blender quit
+
 20:45:41
 }}}

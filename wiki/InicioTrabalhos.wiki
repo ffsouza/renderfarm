@@ -1,5 +1,5 @@
 #labels Phase-Requirements
-= Inicio dos Trabalhos - 14/09/09 = 
+= Inicio dos Trabalhos - 18/11/09 = 
 == Levantamento das configurações do MASTER ==
 || Processador:|| Pentium IV - 1966 MHz||
 || Memória:|| 1024 MB||

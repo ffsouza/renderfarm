@@ -10,7 +10,7 @@
 
 
 == Sistema Operacional - MASTER ==
-=== Ubuntu 8.04 Hardy LTS ===
+=== Ubuntu 8.04 Hardy Heron LTS ===
 === KERNEL 2.6.18-6-686 ===
 ==Instalações do Debian==
 || Desktop || Gnome ||

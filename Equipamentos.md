@@ -1,0 +1,11 @@
+# Infraestrutura Necessária #
+
+|Switch 8 portas|
+|:--------------|
+|Filtro de Linha|
+|Estabilizadores|
+
+# Desejável #
+
+|No-Break 1000|
+|:------------|

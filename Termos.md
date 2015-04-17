@@ -1,0 +1,7 @@
+### Beowulf: _Cluster construído com vários PC's._ ###
+### MPI: _Message Passing Interface._ ###
+### LAM: _Local Area Multicomputer._ ###
+### PVM: _Parallel Virtual Machine._ ###
+### MPL: _Message Passing Library._ ###
+### HPF: _High Performance FORTRAN._ ###
+### NFS: _Network File System._ ###

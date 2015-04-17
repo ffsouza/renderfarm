@@ -1,0 +1,9 @@
+Local Area Multicomputer: http://www.lam-mpi.org/
+
+PelicanHPC: http://pareto.uab.es/mcreel/ParallelKnoppix/
+
+http://lcic.org/distros.html
+
+http://pareto.uab.es/mcreel/PelicanHPC/Tutorial/PelicanTutorial.html
+
+Testing the Cluster: http://iggi.mandriva.com/ch21.html#id2543699

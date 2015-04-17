@@ -1,0 +1,44 @@
+# Inicio dos Trabalhos - 18/11/09 #
+## Levantamento das configurações do MASTER ##
+| Processador:| Pentium IV - 1966 MHz|
+|:------------|:---------------------|
+| Memória:| 1024 MB|
+| HD:| 80 GB|
+| CD | Sim|
+| Rede |2 Interfaces de rede |
+
+
+
+## Sistema Operacional - MASTER ##
+### Ubuntu 8.04 Hardy Heron LTS ###
+### KERNEL 2.6.18-6-686 ###
+## Instalações do Debian ##
+| Desktop | Gnome |
+|:--------|:------|
+| Web Server: | Apache |
+| Servidor de arquivos | NFS |
+Sistema básico
+
+| eth0 | 192.168.3.1 |
+|:-----|:------------|
+| eth1 | 10.0.0.1|
+| Gateway | 192.168.1 |
+| Servidor de nomes | 192.168.0.2 |
+| Domínio | fatecpg.com.br - até então |
+| Grupo de domínio | labpgcp |
+|Hostname:|hulk00|
+|super user:|root|
+| membros:|douglas|
+| membros:|flavio|
+| membros:|luis|
+| membros:|luiscarlos|
+| membros:|rodrigo|
+| membros:|wilson|
+|user:|super|
+
+## Sistema Operacional - SLAVES ##
+### Ubuntu 8.04 Hardy LTS ###
+|Hostname:|agenteX|
+|:--------|:------|
+|super user:|root|
+|user:|super|
